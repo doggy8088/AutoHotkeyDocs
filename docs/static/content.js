@@ -1,3 +1,5 @@
+ignore_original_content_js();
+
 function ignore_original_content_js() {
   loadJQuery();
   addPrototypeMethods();
